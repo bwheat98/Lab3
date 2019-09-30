@@ -1,0 +1,29 @@
+body
+{
+  background-image: url(roadster.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+center
+{
+  font-family: serif;
+  font-size: 90;
+  color: white;
+}
+div
+{
+  width: 750px;
+  background-color:rgba(0, 0, 0, 0.6);
+}
+a:hover
+{
+  color: red;
+}
